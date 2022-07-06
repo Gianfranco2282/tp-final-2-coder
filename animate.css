@@ -1,0 +1,9 @@
+@keyframes animate{
+	from{opacity: 0}
+	to{opacity: 1}
+}
+
+.icons-sobremi-animations{
+	animation-name: animate;
+	animation-duration: 2s;
+}

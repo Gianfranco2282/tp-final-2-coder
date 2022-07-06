@@ -1,0 +1,71 @@
+
+h3{
+	font-size: 1.3rem;
+}
+
+.bg-light2{
+	background-color: #D1CBCB;
+}
+
+.img-index{
+	width: 100%;
+	height: 40rem;
+	padding-bottom: 4rem;
+}
+
+.img-figure{
+	width: 10rem;
+}
+
+.div-container-card{
+	padding-bottom: 4rem;
+	padding-right: 3rem;
+	padding-left: 3rem;
+}
+
+
+.div-index-container{
+	display: flex;
+	justify-content: center;
+}
+	.img-small-index{
+			width: 7rem;
+	}	
+
+		.div-index{
+			padding: 1rem 2rem 5rem 2rem;
+			text-align: center;
+		}
+
+
+.footer{
+	text-align: center;
+}
+	.footer-icons{
+		width: 3rem;
+		padding: 1rem 0.3rem 2rem 0.3rem;
+	}
+		.code-gian{
+			padding-top: 2rem;
+		}
+
+.div-container-portafolio{
+	padding: 4rem 3rem 2rem 3rem;
+	text-align: center;
+}
+
+.img-sobremi{
+	width: 20rem;
+	height: 15rem;
+	text-align: center;
+}
+
+.form-contacto{
+	padding: 2rem 5rem 2rem 5rem;
+}
+
+.img-contacto{
+	width: 100%;
+	height: 35rem;
+}
+
